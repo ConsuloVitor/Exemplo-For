@@ -5,23 +5,29 @@
   }
 
 body {
-    background-image: url(./img/music.jpg);
+    background-image: url(./img/musica.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 500px;
-}
-
+  }
 
 
   .card {
     justify-content: center;
     text-align: center;
     width: 500px;
-    background-color: #ffffff80;
+    background-color: #5f575780;
     padding: 30px;
     border-radius: 4%;
     box-shadow: 3px 3px 1px 0px #00000060
     }
+
+    #tipoMusica {
+      background-color: #5f575780;
+    }
+
