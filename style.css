@@ -30,10 +30,15 @@ body {
 
     #tipoMusica {
       background-color: #5f575780;
+      width: 150px;
     }
 
     #btn {
       background-color: #5f575780;
-    }
+      width: 340px;
+      font-size: 18px;
+      font-family: Roboto,sans-serif;
+   }
+
 
 
