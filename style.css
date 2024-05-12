@@ -22,6 +22,7 @@ body {
     text-align: center;
     width: 500px;
     background-color: #5f575780;
+    scrollbar-color: #5f575780 rgb(49, 49, 49); 
     padding: 30px;
     border-radius: 4%;
     box-shadow: 3px 3px 1px 0px #00000060
@@ -30,4 +31,9 @@ body {
     #tipoMusica {
       background-color: #5f575780;
     }
+
+    #btn {
+      background-color: #5f575780;
+    }
+
 
