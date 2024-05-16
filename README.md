@@ -1,5 +1,9 @@
 <h1 align="center">Laços E Iterações</h1>
 
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
+
 
 
 
@@ -16,6 +20,11 @@
 <h3> • 4 - A atualização da expressão incremento, se houver, executa, e retorna o controle para o passo 2. </h3>
 
 
+## ✔️ Tecnologias utilizadas
+
+- ``JavaScript``
+- ``InteliJ IDEA``
+- ``Paradigma de orientação a objetos``
 
 
 
@@ -23,6 +32,3 @@
 
 
 
-
-
-### Autor
