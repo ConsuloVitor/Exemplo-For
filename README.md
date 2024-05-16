@@ -9,7 +9,7 @@
 
 ![for](https://github.com/ConsuloVitor/Exemplo-For/assets/159435982/9b48849d-091e-457c-90fe-9b4a2fb76b4f)
 
-<h3>A função a seguir contém uma declaração for que contará o número de opções selecionadas em uma lista (um elemento <select> permite várias seleções). Dentro do for é declarado uma váriavel i inicializada com zero. A declaração for verifica se i é menor que o número de opções no elemento <select>, executa sucessivas declaração if, e incrementa i de um em um a cada passagem pelo laço.</h3>
+<h3>A função a cima contém uma declaração for que contará o número de opções selecionadas em uma lista (um elemento <select> permite várias seleções). Dentro do for é declarado uma váriavel i inicializada com zero. A declaração for verifica se i é menor que o número de opções no elemento <select>, executa sucessivas declaração if, e incrementa i de um em um a cada passagem pelo laço.</h3>
 
 
 
