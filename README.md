@@ -23,8 +23,9 @@
 ## ✔️ Tecnologias utilizadas
 
 - ``JavaScript``
-- ``InteliJ IDEA``
-- ``Paradigma de orientação a objetos``
+- ``CSS ``
+- ``HTML 5``
+- ``I.A``
 
 
 
