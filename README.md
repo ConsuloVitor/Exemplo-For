@@ -1,5 +1,9 @@
 <h1 align="center">Laços E Iterações</h1>
 
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
+
 
 
 
@@ -16,24 +20,11 @@
 <h3> • 4 - A atualização da expressão incremento, se houver, executa, e retorna o controle para o passo 2. </h3>
 
 
+## ✔️ Tecnologias utilizadas
 
+- ``JavaScript``
+- ``CSS ``
+- ``HTML 5``
+- ``I.A``
 
 ### Autor
----
-
- <img style="border-radius: 50%;" src="blob:https://web.whatsapp.com/de3eeb28-5749-4a8e-bd89-2c8a09f80c27" width="100px;" alt=""/>
- <br />
- <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
-
-
-Feito com ❤️ por Thiago Marinho 👋🏽 Entre em contato!
-
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
-
-
-
-
-
-
-
