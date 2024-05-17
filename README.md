@@ -27,7 +27,3 @@
 
 
 
-- ``JavaScript``
-- ``CSS ``
-- ``HTML 5``
-- ``I.A``
