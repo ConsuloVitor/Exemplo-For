@@ -9,6 +9,8 @@
 
 ![for](https://github.com/ConsuloVitor/Exemplo-For/assets/159435982/9b48849d-091e-457c-90fe-9b4a2fb76b4f)
 
+## Fonte:<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration" rel="nofollow"></a><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration"> mdn_web_docs</a>
+ 
 ### A função a cima contém uma declaração for que contará o número de opções selecionadas em uma lista (um elemento <select>  permite várias seleções). Dentro do for é declarado uma váriavel i inicializada com zero. A declaração for verifica se i é menor que o número de opções no elemento <select>, executa sucessivas declaração if, e incrementa i de um em um a cada passagem pelo laço.</h3>
 
 
@@ -32,8 +34,10 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-consulo-968a172b7/?trk=opento_sprofile_topcard)  [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/seu_usuario/](https://www.instagram.com/vitin.cxzn/))  [![gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=jrjtXSntcwhXMwDGFsdFJWjtKvtngfgxxTtBHGnkkZJVHBTFzGrGdKlfXltVmnSBVkWNrtdK) [![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61554699697667)  [![whatsapp](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5543991385929)
 
 
-#  Autor
+<h1 align="center">Autor.</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ConsuloVitor/Exemplo-For/main/img/WhatsApp%20Image%202024-05-16%20at%2010.07.48.jpeg" alt="Logo 1" width="200" height="200" class="rounded-img" />
 </p>
+
+<p align="center"><a href="https://github.com/ConsuloVitor">Vitor Consulo</a></p>
