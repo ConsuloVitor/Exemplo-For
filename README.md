@@ -28,5 +28,8 @@
 
 ## 🌐 Redes sociais
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-consulo-968a172b7/?trk=opento_sprofile_topcard)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-consulo-968a172b7/?trk=opento_sprofile_topcard)  [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/seu_usuario/](https://www.instagram.com/vitin.cxzn/))
+
+
 
